@@ -17,13 +17,6 @@
   </a> 
 </p>
 
-<!-- GitHub Trophies -->
-<p align="center">
-  <a href="https://github.com/tej-dabhankar/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=tej-dabhankar&theme=nord&&column=9&row=1" />
-  </a>
-</p>
-
 <!-- GitHub Stats -->
 <p align="center">
   <a href="https://github.com/tej-dabhankar/github-profile-trophy">
@@ -35,6 +28,13 @@
 <p align="center">
   <a href="https://github.com/tej-dabhankar/github-profile-trophy">
     <img src="[https://github-readme-stats.vercel.app/api?username=tej-dabhankar&theme=nord&&column=9&row=1" />
+  </a>
+</p>
+
+<!-- GitHub Trophies -->
+<p align="center">
+  <a href="https://github.com/tej-dabhankar/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=tej-dabhankar&theme=nord&&column=9&row=1" />
   </a>
 </p>
 
