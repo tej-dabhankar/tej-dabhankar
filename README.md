@@ -44,6 +44,7 @@
 s
 - Currently working on FPGA/SBC Development at [Vicharak](https://vicharak.in).
 - Interested in working with RTL Design and Computer Architecture Development.
+- Interested in RISC-V open source development.
 - How to reach me: [Linkedin](https://www.linkedin.com/in/tejas-dabhankar/) | [Mail](mailto:tejasdabhankar123@gmail.com)
 - You can also join me at:[Medium](https://medium.com/@visionvlsi)
 
