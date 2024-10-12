@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@visionvlsi](https://medium.com/@visionvlsi)
 
-- 💬 Ask me about **Computers and SBC's**
+- 💬 Ask me about **Computers Digital Circuits and SBC's**
 
 - 📫 How to reach me **tejasdabhankar**
 
